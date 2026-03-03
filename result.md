@@ -17,7 +17,7 @@
 
 ### 2.1. ISOC (Internet Society) — Общество Интернета
 
-<img src="https://www.internetsociety.org/wp-content/themes/internetsociety/assets/images/logo.svg" alt="ISOC Logo" width="200"/>
+<img src="images/IntSocJpg.jpg" alt="ISOC Logo" width="200"/>
 
 | | |
 |---|---|
@@ -33,7 +33,7 @@ ISOC объединяет более 20 000 индивидуальных чле�
 
 ### 2.2. IRTF (Internet Research Task Force) — Исследовательская группа интернет-технологий
 
-<img src="https://www.irtf.org/images/irtf_logo.png" alt="IRTF Logo" width="200"/>
+<img src="images/IRTFJpg.jpg" alt="IRTF Logo" width="200"/>
 
 | | |
 |---|---|
@@ -49,7 +49,9 @@ IRTF фокусируется на фундаментальных исследо
 
 ### 2.3. IETF (Internet Engineering Task Force) — Инженерный совет Интернета
 
-<img src="https://www.ietf.org/images/ietf-logo.svg" alt="IETF Logo" width="200"/>
+<img src="images/IETFJpg.jpg" alt="IETF Logo" width="200"/>
+
+*Примечание: для IETF используйте любое изображение, которое у вас есть в папке images*
 
 | | |
 |---|---|
@@ -65,7 +67,7 @@ IETF является основной организацией, отвечаю�
 
 ### 2.4. IEEE (Institute of Electrical and Electronics Engineers) — Институт инженеров электротехники и электроники
 
-<img src="https://www.ieee.org/content/dam/ieee-org/ieee/web/org/logo/ieee-logo.svg" alt="IEEE Logo" width="200"/>
+<img src="images/IEEE.jpg" alt="IEEE Logo" width="200"/>
 
 | | |
 |---|---|
@@ -81,7 +83,7 @@ IEEE разрабатывает стандарты, используемые в 
 
 ### 2.5. ICANN (Internet Corporation for Assigned Names and Numbers) — Корпорация по управлению доменными именами и IP-адресами
 
-<img src="https://www.icann.org/sites/default/files/assets/images/icann-logo-63b@2x.png" alt="ICANN Logo" width="200"/>
+<img src="images/ICANN.jpg" alt="ICANN Logo" width="200"/>
 
 | | |
 |---|---|
@@ -97,7 +99,7 @@ ICANN обеспечивает уникальность идентификато
 
 ### 2.6. EIA (Electronic Industries Alliance) — Альянс электронной промышленности
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Electronic_Industries_Alliance_Logo.svg/1200px-Electronic_Industries_Alliance_Logo.svg.png" alt="EIA Logo" width="200"/>
+<img src="images/EIA.jpg" alt="EIA Logo" width="200"/>
 
 | | |
 |---|---|
@@ -113,7 +115,7 @@ EIA разрабатывает стандарты (RS — Recommended Standards)
 
 ### 2.7. ITU (International Telecommunication Union) — Международный союз электросвязи
 
-<img src="https://www.itu.int/en/PublishingImages/logo-itu.png" alt="ITU Logo" width="200"/>
+<img src="images/ITUJpg.jpg" alt="ITU Logo" width="200"/>
 
 | | |
 |---|---|
@@ -131,13 +133,13 @@ ITU является старейшей международной органи�
 
 | Аббревиатура | Полное название | Специализация | Логотип |
 |:---:|:---|:---|:---|
-| **ISOC** | Internet Society | Развитие и доступность интернета | <img src="https://www.internetsociety.org/wp-content/themes/internetsociety/assets/images/logo.svg" width="50"/> |
-| **IRTF** | Internet Research Task Force | Исследования сетевых технологий | <img src="https://www.irtf.org/images/irtf_logo.png" width="50"/> |
-| **IETF** | Internet Engineering Task Force | Стандарты протоколов (RFC) | <img src="https://www.ietf.org/images/ietf-logo.svg" width="50"/> |
-| **IEEE** | Institute of Electrical and Electronics Engineers | Стандарты Ethernet, Wi-Fi | <img src="https://www.ieee.org/content/dam/ieee-org/ieee/web/org/logo/ieee-logo.svg" width="50"/> |
-| **ICANN** | Internet Corporation for Assigned Names and Numbers | Управление доменами и IP-адресами | <img src="https://www.icann.org/sites/default/files/assets/images/icann-logo-63b@2x.png" width="50"/> |
-| **EIA** | Electronic Industries Alliance | Стандарты интерфейсов (RS-232) | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Electronic_Industries_Alliance_Logo.svg/1200px-Electronic_Industries_Alliance_Logo.svg.png" width="50"/> |
-| **ITU** | International Telecommunication Union | Международная связь и радиочастоты | <img src="https://www.itu.int/en/PublishingImages/logo-itu.png" width="50"/> |
+| **ISOC** | Internet Society | Развитие и доступность интернета | <img src="images/IntSocJpg.jpg" width="50"/> |
+| **IRTF** | Internet Research Task Force | Исследования сетевых технологий | <img src="images/IRTFJpg.jpg" width="50"/> |
+| **IETF** | Internet Engineering Task Force | Стандарты протоколов (RFC) | <img src="images/IETFJpg.jpg" width="50"/> |
+| **IEEE** | Institute of Electrical and Electronics Engineers | Стандарты Ethernet, Wi-Fi | <img src="images/IEEE.jpg" width="50"/> |
+| **ICANN** | Internet Corporation for Assigned Names and Numbers | Управление доменами и IP-адресами | <img src="images/ICANN.jpg" width="50"/> |
+| **EIA** | Electronic Industries Alliance | Стандарты интерфейсов (RS-232) | <img src="images/EIA.jpg" width="50"/> |
+| **ITU** | International Telecommunication Union | Международная связь и радиочастоты | <img src="images/ITUJpg.jpg" width="50"/> |
 
 ---
 
@@ -158,11 +160,11 @@ ITU является старейшей международной органи�
 ## 5. Галерея логотипов
 
 <div align="center">
-  <img src="https://www.internetsociety.org/wp-content/themes/internetsociety/assets/images/logo.svg" alt="ISOC" width="100" style="margin: 10px"/>
-  <img src="https://www.irtf.org/images/irtf_logo.png" alt="IRTF" width="100" style="margin: 10px"/>
-  <img src="https://www.ietf.org/images/ietf-logo.svg" alt="IETF" width="100" style="margin: 10px"/>
-  <img src="https://www.ieee.org/content/dam/ieee-org/ieee/web/org/logo/ieee-logo.svg" alt="IEEE" width="100" style="margin: 10px"/>
-  <img src="https://www.icann.org/sites/default/files/assets/images/icann-logo-63b@2x.png" alt="ICANN" width="100" style="margin: 10px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Electronic_Industries_Alliance_Logo.svg/1200px-Electronic_Industries_Alliance_Logo.svg.png" alt="EIA" width="100" style="margin: 10px"/>
-  <img src="https://www.itu.int/en/PublishingImages/logo-itu.png" alt="ITU" width="100" style="margin: 10px"/>
+  <img src="images/IntSocJpg.jpg" alt="ISOC" width="80" style="margin: 10px"/>
+  <img src="images/IRTFJpg.jpg" alt="IRTF" width="80" style="margin: 10px"/>
+  <img src="images/IETFJpg.jpg" alt="IETF" width="80" style="margin: 10px"/>
+  <img src="images/IEEE.jpg" alt="IEEE" width="80" style="margin: 10px"/>
+  <img src="images/ICANN.jpg" alt="ICANN" width="80" style="margin: 10px"/>
+  <img src="images/EIA.jpg" alt="EIA" width="80" style="margin: 10px"/>
+  <img src="images/ITUJpg.jpg" alt="ITU" width="80" style="margin: 10px"/>
 </div>
